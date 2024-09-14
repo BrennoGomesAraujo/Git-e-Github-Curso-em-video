@@ -26,9 +26,10 @@ Lista de Tarefas:
 
 [Link playlist](https://music.youtube.com/playlist?list=PL5fZmxHVr12ALMmK_16iS2NN9ZNDBjUjk&si=hQk08cu8WyJ3CA4U)
 
-Nome | idade | CPF
+Numero | Nome | idade 
 ---|---|---
 1 | Brenno | 19
+
 
 
 
